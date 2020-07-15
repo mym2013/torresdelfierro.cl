@@ -14,7 +14,8 @@ $(document).ready(function(){
    /*      propiedades de los jason de los post
         1-. van a tener un titulo
         2-. una fecha
-        3-. el cuerpo del post q es un texto */
+        3-. el cuerpo del post q es un texto
+        4-. un leer mas que agregue yo */
 
       var posts=[
         { title:' Nuestra Historia tdchile ingeniería',
